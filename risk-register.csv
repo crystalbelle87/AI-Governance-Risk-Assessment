@@ -1,0 +1,2 @@
+Risk ID,Risk Category,Risk Description,Potential Impact,Likelihood,Impact,Inherent Risk Level,Mitigation Strategy,Assigned Owner,Status
+R-01,Privacy and Data Protection,The AI assistant may disclose sensitive patient information to unauthorized users,Exposure of protected health information (PHI) and potential HIPAA compliance violations,Medium,High,High,Implement access restrictions and data protection controls; test for unauthorized disclosure,AI Governance Analyst,Open
