@@ -1,0 +1,9 @@
+Control ID,Control Area,Control Description,Related Risk ID,Control Owner,Implementation Status,Evidence Reference,Review Frequency,Notes
+AC-01,Access Control,Require multi-factor authentication for authorized user accounts,R-02,IT Security Administrator,Proposed,E-001,Quarterly,Verify MFA configuration and enforcement
+AC-02,Access Control,Implement role-based access control and least privilege,R-02,IT Security Administrator,Proposed,E-002,Quarterly,Review user permissions and access assignments
+AC-03,Data Protection,Restrict access to sensitive patient information and apply data minimization,R-01,Data Protection Officer,Proposed,E-003,Quarterly,Review data access and collection practices
+AC-04,Privacy Management,Establish documented data retention and secure deletion requirements,R-01,Data Protection Officer,Proposed,E-004,Annually,Verify retention schedules and deletion procedures
+AC-05,AI Oversight,Require human review of high-impact AI-generated outputs,R-03,AI Governance Lead,Proposed,E-005,Quarterly,Review human oversight procedures and sample review records
+AC-06,AI Monitoring,Establish procedures for monitoring AI output accuracy and unexpected behavior,R-03,AI Governance Lead,Proposed,E-006,Monthly,Review monitoring results and testing records
+AC-07,Audit and Logging,Enable audit logging and establish periodic log reviews,R-04,Security Operations Team,Proposed,E-007,Monthly,Inspect audit logs and review documentation
+AC-08,Third-Party Risk,Conduct periodic security and privacy assessments of external AI vendors,R-05,Third-Party Risk Manager,Proposed,E-008,Annually,Review vendor assessments and contractual safeguards
