@@ -1,0 +1,6 @@
+Remediation ID,Related Risk ID,Finding,Recommended Remediation,Responsible Role,Priority,Target Completion Date,Status,Validation Method
+REM-001,R-01,Sensitive data disclosure,Implement data minimization and restrict access to sensitive information,Data Protection Officer,High,2026-12-01,Open,Review data access controls and test sample data handling
+REM-002,R-02,Insufficient access restrictions,Enforce role-based access control and require multi-factor authentication,IT Security Administrator,High,2026-12-01,Open,Review access permissions and MFA configuration
+REM-003,R-03,Inaccurate AI-generated responses,Implement human review for high-impact outputs and establish an AI output testing process,AI Governance Lead,High,2026-12-15,Open,Test sample outputs for accuracy and document review results
+REM-004,R-04,Insufficient audit logging,Enable audit logging and establish periodic log reviews,Security Operations Team,Medium,2026-12-15,Open,Inspect audit logs and verify review records
+REM-005,R-05,Insufficient vendor oversight,Establish third-party AI risk assessments and periodic vendor reviews,Third-Party Risk Manager,Medium,2026-12-30,Open,Review vendor assessment records and contractual safeguards
