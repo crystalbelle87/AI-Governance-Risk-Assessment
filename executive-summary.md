@@ -11,7 +11,7 @@
 
 This assessment evaluates the governance, security, privacy, and operational risks associated with a proposed internal healthcare AI assistant.
 
-The purpose is to identify potential risks, document existing and proposed controls, evaluate supporting evidence, and recommend remediation actions before deployment.
+The purpose is to identify potential risks, document proposed controls, review illustrative evidence references, and recommend remediation actions before deployment.
 
 The assessment uses the NIST AI Risk Management Framework as its primary reference.
 
