@@ -1,9 +1,9 @@
-Mapping ID,NIST AI RMF Function,NIST AI RMF Category,Governance Activity,Related Risk ID,Related Control ID,Implementation Evidence,Assessment Status
-NM-001,GOVERN,Policies and procedures,Establish documented AI governance policies and assign accountability for AI system oversight,R-01,AC-03,E-003,Needs Review
-NM-002,GOVERN,Accountability and oversight,Define responsibilities for AI system monitoring and human oversight,R-03,AC-05,E-005,Needs Review
-NM-003,MAP,Context and intended purpose,Document the AI system purpose users affected and intended operating environment,R-01,AC-03,E-003,Needs Review
-NM-004,MAP,Risk identification,Identify sensitive data exposure and third-party AI processing risks,R-01; R-05,AC-03; AC-08,E-003; E-008,Needs Review
-NM-005,MEASURE,Testing and evaluation,Evaluate AI-generated responses for accuracy reliability and potential harmful outputs,R-03,AC-05,E-005,Needs Review
-NM-006,MEASURE,Monitoring and measurement,Establish performance monitoring and procedures for identifying unexpected AI behavior,R-03,AC-06,E-006,Needs Review
-NM-007,MANAGE,Risk response,Develop remediation plans for identified AI governance and privacy risks,R-01; R-02; R-03,AC-03; AC-01; AC-05,E-003; E-001; E-005,Needs Review
-NM-008,MANAGE,Ongoing monitoring,Conduct periodic reviews of AI system performance security and privacy safeguards,R-04; R-05,AC-07; AC-08,E-007; E-008,Needs Review
+NIST Function,NIST Category,AI Governance Activity,Related Risk ID,Related Control ID,Implementation Status,Evidence Reference,Reviewer Notes
+GOVERN,GOVERN 1,Establish access control policies and MFA requirements,R-02,AC-01,Proposed,E-001,Illustrative MFA configuration evidence; actual implementation requires verification
+GOVERN,GOVERN 1,Establish role-based access and least privilege requirements,R-02,AC-02,Proposed,E-002,Illustrative access review evidence; actual permissions require verification
+MAP,MAP 4,Identify privacy risks involving sensitive data access and collection,R-01,AC-03,Proposed,E-003,Illustrative data access evidence; data minimization requires verification
+GOVERN,GOVERN 1,Establish documented data retention and deletion policies,R-01,AC-04,Proposed,E-004,Illustrative policy evidence; actual procedures require verification
+GOVERN,GOVERN 2,Establish accountability and human oversight responsibilities,R-03,AC-05,Proposed,E-005,Illustrative human oversight evidence; actual review procedures require verification
+MEASURE,MEASURE 3,Establish mechanisms for tracking AI output performance and unexpected behavior,R-03,AC-06,Proposed,E-006,Illustrative monitoring evidence; monitoring effectiveness requires verification
+MEASURE,MEASURE 3,Establish mechanisms for tracking and reviewing AI system activity,R-04,AC-07,Proposed,E-007,Illustrative audit log evidence; logging configuration requires verification
+GOVERN,GOVERN 6,Establish third-party AI vendor risk assessment procedures,R-05,AC-08,Proposed,E-008,Illustrative vendor assessment evidence; actual vendor safeguards require verification
