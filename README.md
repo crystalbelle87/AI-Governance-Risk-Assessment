@@ -51,9 +51,10 @@ The four core functions are:
 
 A project-specific likelihood and impact scoring model is used to prioritize risks. The scoring model is illustrative and is not an official NIST formula.
 
-## 5. Key Risks to Assess
+## 5. Broader AI Risk Considerations
 
-The assessment will consider:
+This assessment recognizes the following additional AI risks and governance considerations. They may warrant separate assessment entries as the project scope develops:
+
 - Unauthorized disclosure of sensitive information
 - Incorrect or fabricated AI-generated content
 - Unauthorized access to information or system functions
@@ -62,8 +63,6 @@ The assessment will consider:
 - Inadequate human oversight
 - Third-party and vendor risks
 - Insufficient monitoring and incident response
-
-These are potential risks to investigate, not confirmed findings about a deployed system.
 
 ## 6. Control Assessment
 
