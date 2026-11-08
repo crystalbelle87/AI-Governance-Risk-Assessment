@@ -87,13 +87,17 @@ The final recommendation will depend on documented assessment results, unresolve
 
 ## 8. Project Deliverables
 
-- AI system profile and assessment scope
-- AI risk register
-- Risk and control matrix
-- NIST AI RMF mapping
-- Gap assessment and remediation plan
-- Executive summary and governance recommendation
-- Supporting references
+This project includes the following governance and risk management documentation:
+
+- **AI Risk Register:** Documents five identified risk areas, potential impacts, likelihood, impact, and mitigation strategies.
+- **Control Register:** Documents eight proposed security, privacy, and AI governance controls.
+- **Evidence Register:** Tracks eight illustrative evidence records and their relationships to controls.
+- **Remediation Plan:** Documents five remediation actions, responsible roles, priorities, target dates, and validation methods.
+- **Privacy Assessment:** Evaluates seven privacy areas, including data collection, access, storage, retention, third-party sharing, transparency, and data accuracy.
+- **NIST AI RMF Mapping:** Maps governance activities, risks, controls, and evidence to the four NIST AI RMF functions.
+- **Executive Summary:** Communicates assessment findings, recommended safeguards, limitations, and deployment considerations.
+
+All controls and evidence are illustrative. Proposed safeguards have not been independently verified as implemented or effective.
 
 ## 9. Limitations
 
