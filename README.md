@@ -1,6 +1,6 @@
 # AI Governance Risk & Control Assessment
 
-**Project Status:** In Progress
+**Project Status:** Completed — Portfolio Demonstration
 
 **Project Theme:** Can this AI system be trusted?
 
