@@ -1,0 +1,9 @@
+Evidence ID,Related Control ID,Evidence Description,Evidence Type,Collection Date,Review Status,Reviewer Notes
+E-001,AC-01,Sample MFA configuration review,Configuration Record,2026-11-07,Illustrative,Sample evidence description; actual MFA configuration has not been verified
+E-002,AC-02,Sample quarterly user access review,Access Review Record,2026-11-07,Illustrative,Sample evidence description; actual access permissions have not been verified
+E-003,AC-03,Sample sensitive data access review,Access Review Record,2026-11-07,Illustrative,Sample evidence description; data minimization has not been verified
+E-004,AC-04,Sample data retention and deletion policy review,Policy Document,2026-11-07,Illustrative,Sample evidence description; retention and deletion procedures have not been verified
+E-005,AC-05,Sample human oversight review record,Review Record,2026-11-07,Illustrative,Sample evidence description; human review procedures have not been verified
+E-006,AC-06,Sample AI output monitoring report,Monitoring Report,2026-11-07,Illustrative,Sample evidence description; monitoring effectiveness has not been verified
+E-007,AC-07,Sample audit log review,Audit Log Record,2026-11-07,Illustrative,Sample evidence description; logging configuration has not been verified
+E-008,AC-08,Sample third-party AI vendor assessment,Vendor Assessment,2026-11-07,Illustrative,Sample evidence description; vendor safeguards have not been verified
